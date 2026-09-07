@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "id": "sk-hello",
+      "name": "外置示例 · 你好",
+      "version": "0.1.0",
+      "description": "Phase 3 外置插件演示：命令进 ⌘K + 命名空间数据读写 + 权限门放行/拒绝对比",
+      "author": "SellerKit Demo",
+      "downloadUrl": "https://raw.githubusercontent.com/SayakABC/SellerKitPlugin/main/sk-hello-0.1.0.zip",
+      "sha256": "93df3cddd5a91f83890c6103337f3dfeb81bf96850c801d3b7b3966cc05f9221",
+      "homepage": ""
+    }
+  ]
+}
