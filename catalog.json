@@ -35,11 +35,22 @@
     {
       "id": "ae-profit",
       "name": "利润追踪（UI 岛）",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "速卖通订单利润追踪：订单明细、利润引擎（趋势/分类/爆品）、成本衔接（拿货对账快照导入）与汇率维护。数据经宿主 db 能力域读写，不外发。",
       "author": "SellerKit",
-      "downloadUrl": "https://raw.githubusercontent.com/SayakABC/SellerKitPlugin/main/ae-profit-1.0.0.zip",
-      "sha256": "310bc0521fc04dfec7464bdf81a3038a3d987785aa3d264c6c9f2f93e0c1c429",
+      "downloadUrl": "https://raw.githubusercontent.com/SayakABC/SellerKitPlugin/main/ae-profit-1.0.1.zip",
+      "sha256": "ac09cb01815cb91f8757fa2ac4223e1c3dfbf72e2028011eeb71c9ad14242c07",
+      "homepage": "",
+      "kind": "ui"
+    },
+    {
+      "id": "order-insight",
+      "name": "订单归类（UI 岛）",
+      "version": "1.0.0",
+      "description": "表格多数量订单图片识别归类：导入含主图的订单表 → 视觉模型识别款式/颜色/logo → 款色同款归并 → 透视/订单明细/数据纠正/产品库/拿货对账。数据经宿主 db 能力域读写，AI 密钥只入不出。",
+      "author": "SellerKit",
+      "downloadUrl": "http://127.0.0.1:8000/order-insight-1.0.0.zip",
+      "sha256": "8cddf98e928998fc8a7d2152bd54fc8ff4c7e1b9b67fddd985dc39cbb998cb00",
       "homepage": "",
       "kind": "ui"
     }
