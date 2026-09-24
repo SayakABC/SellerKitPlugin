@@ -1,27 +1,6 @@
 {
   "plugins": [
     {
-      "id": "sk-hello",
-      "name": "外置示例 · 你好",
-      "version": "0.1.0",
-      "description": "Phase 3 外置插件演示：命令进 ⌘K + 命名空间数据读写 + 权限门放行/拒绝对比",
-      "author": "SellerKit Demo",
-      "downloadUrl": "https://raw.githubusercontent.com/SayakABC/SellerKitPlugin/main/sk-hello-0.1.0.zip",
-      "sha256": "93df3cddd5a91f83890c6103337f3dfeb81bf96850c801d3b7b3966cc05f9221",
-      "homepage": ""
-    },
-    {
-      "id": "sk-ui-starter",
-      "name": "sk-ui-starter（UI 岛）",
-      "version": "0.1.0",
-      "description": "sk-ui-starter：UI 形态包示例（iframe 运行时岛 + window.__sk 桥）",
-      "author": "SellerKit",
-      "downloadUrl": "http://127.0.0.1:8000/sk-ui-starter-0.1.0.zip",
-      "sha256": "f996a4b04fda378b29905eeccc472c9261a362794098e7cf7f3f93c7a2d6c5ee",
-      "homepage": "",
-      "kind": "ui"
-    },
-    {
       "id": "shop-accounts",
       "name": "店铺账号管家（UI 岛）",
       "version": "1.0.0",
